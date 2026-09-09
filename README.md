@@ -11,4 +11,5 @@ Trying to build things, breaking them, and learning along the way.
 
 📬 **Let's connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-budhiraja-68b4a8166/)  
+[![Scholar](https://img.shields.io/badge/scholar-blue?style=flat&logo=scholar)](https://scholar.google.com/citations?user=l-wuGtYAAAAJ)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/harshitbudhir11)  
