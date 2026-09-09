@@ -1,6 +1,6 @@
 ### Hi, I'm Harshit Budhiraja <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" />
 
-Interested in **Software Development, Machine Learning, NLP**.  
+Interested in all things engineering and research related to **Systems, Machine Learning, NLP**.  
 Exploring **LLMs, NLP Workflows**.  
 Trying to build things, breaking them, and learning along the way.  
 
